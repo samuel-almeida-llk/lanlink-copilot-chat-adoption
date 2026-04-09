@@ -14,7 +14,7 @@
 
 **👉 [Acesse a página aqui](https://usuario.github.io/lanlink-copilot-chat-adoption)**
 
-> _Substitua `usuario` pelo seu nome de usuário do GitHub após publicar via GitHub Pages._
+> _Substitua `samuel-almeida-llk` pelo seu nome de usuário do GitHub após publicar via GitHub Pages._
 
 ---
 
