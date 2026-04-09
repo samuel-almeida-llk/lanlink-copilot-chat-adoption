@@ -12,7 +12,7 @@
 
 ## 🌐 Demo ao Vivo
 
-**👉 [Acesse a página aqui](https://usuario.github.io/lanlink-copilot-chat-adoption)**
+**👉 [Acesse a página aqui](https://samuel-almeida-llk.github.io/lanlink-copilot-chat-adoption/)**
 
 > _Substitua `samuel-almeida-llk` pelo seu nome de usuário do GitHub após publicar via GitHub Pages._
 
